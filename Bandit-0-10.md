@@ -1,5 +1,7 @@
 # Bandit Level 0 - 10
-bottom 👀
+
+Here i will be uploading the Bandit levels hints to solve them and actual solutions to solve those levels if you find yourself stuck and want to skip take a peak at the bottom 👀
+
 ## Bandit level 0
 
 - explore ssh man page / help page 
